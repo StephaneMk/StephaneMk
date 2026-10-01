@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://stephanemk.github.io"><img src="assets/btn-portfolio.png" alt="Portfolio : stephanemk.github.io" height="40"></a>
   <a href="https://www.linkedin.com/in/stephane-kinyok"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="40"></a>
-  <a href="https://gitlab.com/stephanekinyok26"><img src="assets/btn-gitlab.png" alt="GitLab" height="40"></a>
+  <a href="https://gitlab.com/StephaneMk"><img src="assets/btn-gitlab.png" alt="GitLab" height="40"></a>
   <a href="mailto:stephanekinyok26@gmail.com"><img src="assets/btn-mail.png" alt="E-mail : stephanekinyok26@gmail.com" height="40"></a>
 </p>
 
