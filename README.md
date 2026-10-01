@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://stephanemk.github.io"><img src="https://img.shields.io/badge/Portfolio-stephanemk.github.io-c81d63?style=for-the-badge&labelColor=071c39" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/stephane-kinyok"><img src="https://img.shields.io/badge/LinkedIn-stephane--kinyok-c81d63?style=for-the-badge&labelColor=071c39" alt="LinkedIn"></a>
-  <a href="https://gitlab.com/stephanekinyok26"><img src="https://img.shields.io/badge/GitLab-stephanekinyok26-c81d63?style=for-the-badge&labelColor=071c39" alt="GitLab"></a>
-  <a href="mailto:stephanekinyok26@gmail.com"><img src="https://img.shields.io/badge/E--mail-me%20contacter-c81d63?style=for-the-badge&labelColor=071c39" alt="E-mail"></a>
+  <a href="https://stephanemk.github.io"><img src="assets/btn-portfolio.png" alt="Portfolio : stephanemk.github.io" height="40"></a>
+  <a href="https://www.linkedin.com/in/stephane-kinyok"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="40"></a>
+  <a href="https://gitlab.com/stephanekinyok26"><img src="assets/btn-gitlab.png" alt="GitLab" height="40"></a>
+  <a href="mailto:stephanekinyok26@gmail.com"><img src="assets/btn-mail.png" alt="E-mail : stephanekinyok26@gmail.com" height="40"></a>
 </p>
 
 ## Bonjour, je suis Moïse Stéphane
@@ -49,6 +49,13 @@ Les dépôts de ces projets sont privés. Leur présentation complète est sur [
 
 ## Compétences
 
+<p align="center">
+  <img src="assets/stack.png" alt="Mes outils : Python, pandas, SQL, Power BI, Excel, Oracle, MySQL, PostgreSQL, MariaDB, Elasticsearch, Kibana, Logstash, Elastic ML, OMi, Control-M, ServiceNow, Git, GitLab, GitHub, Ansible, Docker, Linux, Azure, Java, JavaScript, PHP, Django, Android, Shell." width="100%">
+</p>
+
+<details>
+<summary>Version texte</summary>
+
 | Domaine | Outils |
 | --- | --- |
 | Données et BI | SQL, Python, Pandas, Power BI, Excel / Power Query, NLP |
@@ -57,6 +64,7 @@ Les dépôts de ces projets sont privés. Leur présentation complète est sur [
 | Supervision et exploitation | OMi, BMC Control-M, ServiceNow |
 | DevOps et cloud | Git, GitLab, GitHub, Ansible, Docker, Linux, Azure |
 | Programmation | Java, C, Shell / KSH, JavaScript, PHP, Django, Android |
+</details>
 
 ## Formation et langues
 
