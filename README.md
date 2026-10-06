@@ -15,7 +15,7 @@
 
 Je comprends les parcours de gestion des contrats d'assurance vie et les besoins des équipes, puis j'exploite les données pour suivre les opérations, repérer les anomalies et fournir des indicateurs utiles à leur prise en charge.
 
-**Je recherche un premier emploi de Data / Business Analyst à partir de septembre 2027.**
+**Je recherche un premier emploi de Data / Business Analyst à partir de septembre 2027, dans l'assurance, la banque ou la finance.**
 
 ## Ce que je construis chez CNP Assurances
 
@@ -60,8 +60,8 @@ Les dépôts de ces projets sont privés. Leur présentation complète est sur [
 | --- | --- |
 | Données et BI | SQL, Python, Pandas, Power BI, Excel / Power Query, NLP |
 | Bases de données | Oracle, MySQL, PostgreSQL, MariaDB |
-| Écosystème Elastic | Elasticsearch, Kibana, Logstash, Transforms, Watcher, Elastic ML, KQL, ES\|QL |
-| Supervision et exploitation | OMi, BMC Control-M, ServiceNow |
+| Écosystème Elastic | Elasticsearch, Kibana, Logstash, Data Views, Transforms, Watcher, Elastic ML, KQL, ES\|QL, Saved Objects |
+| Analyse métier et exploitation | Recueil des besoins, cahier des charges, recette et tests fonctionnels, OMi, BMC Control-M, ServiceNow |
 | DevOps et cloud | Git, GitLab, GitHub, Ansible, Docker, Linux, Azure |
 | Programmation | Java, C, Shell / KSH, JavaScript, PHP, Django, Android |
 </details>
