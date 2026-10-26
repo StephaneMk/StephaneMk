@@ -13,21 +13,9 @@
 
 Élève-ingénieur à l'**ESEO** (systèmes d'information, diplôme en 2027) et **Data / Business Analyst en alternance chez CNP Assurances** à Angers.
 
-Je comprends les parcours de gestion des contrats d'assurance vie et les besoins des équipes, puis j'exploite les données pour suivre les opérations, repérer les anomalies et fournir des indicateurs utiles à leur prise en charge.
+J'accompagne des équipes métier de l'assurance vie : je comprends leurs besoins et je les traduis en indicateurs utiles à leurs décisions.
 
 **Je recherche un premier emploi de Data / Business Analyst à partir de septembre 2027, dans l'assurance, la banque ou la finance.**
-
-## Ce que je construis chez CNP Assurances
-
-Un projet qui rend visible, pour les équipes support et métier, le bon déroulement des actes de gestion sur les contrats. Trois axes de suivi, sur un socle commun Elasticsearch :
-
-| Axe | La question | Ce que j'ai fait |
-| --- | --- | --- |
-| **Suivi de masse** | Les volumes de contrats et les montants évoluent-ils normalement ? | Mis en place la détection d'anomalies avec Elastic Machine Learning, créé les Data Views et les indicateurs, diffusion par Watcher vers Teams |
-| **Suivi par contrat** | Où en est une demande, et à quelle étape bloque-t-elle ? | Participé aux requêtes SQL Oracle et aux pipelines Logstash, construit les indicateurs par étape, configuré les vues métier dans l'hyperviseur et formé les utilisateurs |
-| **Qualité des données** | Quels contrats sont bloqués par une donnée manquante ? | Participé activement à la conception d'une requête puis d'un Transform qui isolent les contrats sans coordonnées bancaires lors d'un rachat partiel |
-
-➜ Le détail des trois axes : [mon retour d'expérience](https://stephanemk.github.io/posts/post-5/)
 
 ## Ma méthode
 
